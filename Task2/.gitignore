@@ -1,0 +1,19 @@
+# 파이썬 관련
+__pycache__/
+*.pyc
+
+# 가상환경 관련
+.python-version
+
+# Django DB 파일
+db.sqlite3
+
+# IDE 설정
+.idea/
+
+# Poetry 파일
+poetry.lock
+pyproject.toml
+
+# 필요 없는 폴더
+../../Blog/
